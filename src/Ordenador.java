@@ -13,7 +13,7 @@ public class Ordenador {
   
  private   boolean ordenadorEncendido;
     
-private      static final int garantia=2;
+private      static final int garantia=2; 
      //Constructores  
     public Ordenador(){        
     }
